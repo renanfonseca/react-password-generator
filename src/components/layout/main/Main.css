@@ -1,0 +1,12 @@
+.Main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -15px;
+    flex-direction: column;
+    height: calc(100vh - 85px);
+}
+
+.PasswordGenerator {
+    margin-top: 15px;
+}

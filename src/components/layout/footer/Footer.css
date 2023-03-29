@@ -1,0 +1,16 @@
+.Footer {
+    position: fixed;
+    bottom: 0;
+    background-color: #37323E;
+    width: 100vw;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.Footer > span > a{
+    color: #BFBDC1;
+    font-family: sans-serif;
+    display: inline-block;
+    margin-left: 50%;
+    transform: translate(-50%);
+}

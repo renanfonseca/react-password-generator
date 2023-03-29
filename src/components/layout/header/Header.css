@@ -1,0 +1,15 @@
+.Header {
+    background-color: #37323E;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #fff;
+    height: 85px;
+    width: 100vw;
+
+    display: flex;
+}
+
+span {
+    margin: auto;
+    font-size: 1.2rem;
+}
